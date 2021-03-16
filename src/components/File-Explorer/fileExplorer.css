@@ -1,0 +1,14 @@
+.folderLabel {
+  color: white;
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+.folderItem {
+  width: 150px;
+}
+
+.presentFolder{
+  color: white;
+  margin: 14px;
+}

@@ -1,0 +1,44 @@
+
+p {
+  margin: 0;
+}
+
+.sideBarOptions {
+  list-style: none;
+  display: inline-flex;
+  padding: 0;
+  align-items: flex-start;
+  margin: 10px;
+}
+
+.NavbarItems {
+  padding: 0;
+  list-style: none;
+}
+
+.listItems {
+  color: white;
+  margin: 10px 0px;
+}
+
+.listItems:hover {
+  background: gray;
+  cursor: pointer;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1.1);
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1.1);
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1.1);
+  transition: all 200ms ease-in;
+  transform: scale(1.1);
+}
+
+.iconsStyles {
+  margin: 0px 9px;
+}
+
+h6 {
+  margin: 15px 0px;
+  color: slategray;
+}

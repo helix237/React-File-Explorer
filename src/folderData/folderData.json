@@ -1,0 +1,94 @@
+{
+    "Music": [
+        {
+            "id": 1,
+            "name": "Music",
+            "children": []
+        },
+        {
+            "id": 2,
+            "name": "Movies",
+            "children": []
+        },
+        {
+            "id": 3,
+            "name": "Misc",
+            "children": []
+        },
+        {
+            "id": 1,
+            "name": "Guides",
+            "children": []
+        }
+    ],
+    "AirDrop": [
+        {
+            "id": 1,
+            "name": "AirDrop",
+            "children": []
+        }
+    ],
+    "Recents": [
+        {
+            "id": 1,
+            "name": "Recents",
+            "children": []
+        }
+    ],
+    "Applications": [
+        {
+            "id": 1,
+            "name": "Applications",
+            "children": []
+        }
+    ],
+    "Downloads": [
+        {
+            "id": 1,
+            "name": "Downloads",
+            "children": []
+        }
+    ],
+    "Pictures": [
+        {
+            "id": 1,
+            "name": "Pictures",
+            "children": []
+        }
+    ],
+    "Movies": [
+        {
+            "id": 1,
+            "name": "Movies",
+            "children": []
+        }
+    ],
+    "Creative Cloud Files": [
+        {
+            "id": 1,
+            "name": "Creative Cloud Files",
+            "children": []
+        }
+    ],
+    "iCloud Drive": [
+        {
+            "id": 1,
+            "name": "iCloud Drive",
+            "children": []
+        }
+    ],
+    "Documents": [
+        {
+            "id": 1,
+            "name": "Documents",
+            "children": []
+        }
+    ],
+    "Desktop": [
+        {
+            "id": 1,
+            "name": "Desktop",
+            "children": []
+        }
+    ]
+}
